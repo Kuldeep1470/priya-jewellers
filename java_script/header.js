@@ -5,6 +5,7 @@ connectedCallback() {
 this.innerHTML = `
 
 
+
 <div class="wrapper_header_04 header-lang-style2 header_mobile_style_3">
     <div id="section-header-04" class="section">
         <style>
@@ -246,7 +247,8 @@ this.innerHTML = `
             }
         </style>
 
-        <header class="site-header header-04" role="banner" style="    position: fixed; z-index: 4; width: 100%; top: 0;">
+        <header class="site-header header-04" role="banner"
+            style="    position: fixed; z-index: 4; width: 100%; top: 0;">
 
 
             <a href="#" class="icon-nav close-menu-mb" title="Menu Mobile Icon" data-menu-mb-toogle>
@@ -275,8 +277,8 @@ this.innerHTML = `
                             <div class="header-logo">
 
                                 <a class="logo-img" href="/" title="Logo">
-                                    <img src="/public/logo/Vector logo - No Background.png" alt="priya" itemprop="logo" class="lazyautosizes lazyloade"
-                                        data-sizes="auto">
+                                    <img src="/public/logo/Vector logo - No Background.png" alt="priya" itemprop="logo"
+                                        class="lazyautosizes lazyloade" data-sizes="auto">
                                 </a>
 
                             </div>
@@ -291,7 +293,7 @@ this.innerHTML = `
 
                                     <svg data-icon="search" viewBox="0 0 512 512" width="100%" height="100%">
                                     </svg>
-\
+                                    \
 
                                 </a>
 
@@ -314,7 +316,7 @@ this.innerHTML = `
                                     <meta itemprop="url">
 
                                     <a class="logo-img" href="index.html" title="Logo">
-                                        <img src="/public/logo/Vector logo - No Background.png  " alt="COMPANY_LOGO" 
+                                        <img src="/public/logo/Vector logo - No Background.png  " alt="COMPANY_LOGO"
                                             class="lazyautosizes lazyloaded" data-sizes="auto">
                                     </a>
 
@@ -374,26 +376,10 @@ this.innerHTML = `
                                                 </li>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
                                                 <li class=" menu-lv-1 item dropdown no-mega-menu">
-                                                    <a class="menu__moblie " href="../public/jewellery.html">
+                                                    <a class="menu__moblie " href="../public/contact_us.html">
 
-                                                        <span>jewellery</span>
+                                                        <span>Contact Us</span>
 
 
 
@@ -409,6 +395,181 @@ this.innerHTML = `
 
                                                     </a>
 
+
+                                                </li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                <li class=" menu-lv-1 item dropdown mega-menu">
+                                                    <a class="menu__moblie " href="#">
+
+                                                        <span>Collections</span>
+
+
+
+                                                        <span class="icon-dropdown" data-toggle-menu-mb="">
+                                                            <i class="fa fa-angle-right" aria-hidden="true"></i>
+                                                        </span>
+
+
+
+
+
+
+
+                                                    </a>
+
+
+                                                    <div class="sub-menu-mobile menu-mb-translate style_5">
+                                                        <div class="menu-mb-title">
+                                                            <span class="icon-dropdown">
+                                                                <i class="fa fa-angle-left" aria-hidden="true"></i>
+                                                            </span>
+
+                                                            <span>Collections</span>
+
+                                                        </div>
+
+
+
+
+
+
+                                                        <div class="site-nav-dropdown style_5 nn-site-nav-dropdown">
+                                                            <div class=" container">
+                                                                <div class="row">
+
+                                                                    <div class="col-12 col-xl-12">
+                                                                        <ul class="hide_pc row">
+                                                                            <li class="menu-lv-2 col-12">
+                                                                                <a href="#">
+                                                                                    <span>All Collections</span>
+                                                                                </a>
+                                                                            </li>
+                                                                        </ul>
+                                                                        <div class=" ">
+
+                                                                            <div class=" ">
+                                                                                <div class="row"
+                                                                                    data-masonry="{ &quot;itemSelector&quot;: &quot;[data-gridItem]&quot;, &quot;columnWidth&quot;: &quot;.grid-sizer&quot; }"
+                                                                                    style="position: relative; height: 473px;">
+
+                                                                                    <div class="grid-sizer"></div>
+
+
+
+
+
+                                                                                    <div data-griditem=""
+                                                                                        class="menu-lv-2 inner dropdown col-12 col5 "
+                                                                                        style="position: absolute; left: 240px; top: 0px;">
+                                                                                        <!-- Menu level 2 -->
+                                                                                        <a class="menu__moblie"
+                                                                                            href="/public/gold.html">
+
+                                                                                            <span>Gold</span>
+
+
+
+                                                                                            <span class="icon-dropdown"
+                                                                                                data-toggle-menu-mb="">
+                                                                                                <i class="fa fa-angle-right"
+                                                                                                    aria-hidden="true"></i>
+                                                                                            </span>
+
+                                                                                        </a>
+
+
+                                                                                    </div>
+
+
+
+
+
+
+
+                                                                                    <div data-griditem=""
+                                                                                        class="menu-lv-2 inner dropdown col-12 col5 "
+                                                                                        style="position: absolute; left: 240px; top: 0px;">
+                                                                                        <!-- Menu level 2 -->
+                                                                                        <a class="menu__moblie"
+                                                                                            href="/public/silver.html">
+
+                                                                                            <span>Silver</span>
+
+
+
+                                                                                            <span class="icon-dropdown"
+                                                                                                data-toggle-menu-mb="">
+                                                                                                <i class="fa fa-angle-right"
+                                                                                                    aria-hidden="true"></i>
+                                                                                            </span>
+
+                                                                                        </a>
+
+
+                                                                                    </div>
+
+
+
+
+
+
+
+                                                                                    <div data-griditem=""
+                                                                                        class="menu-lv-2 inner dropdown col-12 col5 "
+                                                                                        style="position: absolute; left: 240px; top: 0px;">
+                                                                                        <!-- Menu level 2 -->
+                                                                                        <a class="menu__moblie"
+                                                                                            href="/public/brass.html">
+
+                                                                                            <span>Brass</span>
+
+
+
+                                                                                            <span class="icon-dropdown"
+                                                                                                data-toggle-menu-mb="">
+                                                                                                <i class="fa fa-angle-right"
+                                                                                                    aria-hidden="true"></i>
+                                                                                            </span>
+
+                                                                                        </a>
+
+
+                                                                                    </div>
+
+
+
+
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+
+
+
+                                                                </div>
+
+                                                            </div>
+                                                        </div>
+
+
+                                                    </div>
 
                                                 </li>
 
