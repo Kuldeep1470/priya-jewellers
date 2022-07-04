@@ -1,0 +1,156 @@
+.label.sale-label {
+    background-color: #F1BE61 !important
+}
+
+.contact-us-page .btn {
+    background-color: #F1BE61 !important;
+    border-color: #F1BE61 !important;
+    color: #fff !important;
+    padding: 15px 25px 13px;
+    border-radius: 0;
+    font-weight: 500
+}
+
+#contact .contact-us-page .btn:hover {
+    background-color: #fff !important;
+    border-color: #dfb15c !important;
+    color: #daac58 !important
+}
+
+.btn.button.btn-check-available {
+    border-radius: 4px !important;
+    background-color: #F1BE61 !important;
+    border-color: #F1BE61 !important;
+    color: #fff !important
+}
+
+#customer_login .btn,
+#create_customer .btn,
+.new-customer .btn,
+.action-btn .btn {
+    background-color: #F1BE61 !important;
+    border-color: #F1BE61 !important;
+    color: #fff !important
+}
+
+#customer_login .btn:hover,
+#create_customer .btn:hover,
+.new-customer .btn:hover,
+.action-btn .btn:hover,
+.btn.button.btn-check-available:hover {
+    background-color: #fff !important;
+    border-color: #dbad57 !important;
+    color: #F1BE61 !important
+}
+
+#notify-me-wrapper #soldOut-button {
+    border-radius: 4px !important;
+    background-color: #F1BE61 !important;
+    border-color: #F1BE61 !important;
+    color: #fff !important;
+    text-transform: uppercase !important;
+    min-width: 130px
+}
+
+button.btn.add-to-cart-btn,
+.product-des .btn {
+    border-radius: 4px !important;
+    text-transform: uppercase;
+    background-color: #F1BE61 !important;
+    border-color: #F1BE61 !important;
+    color: #fff !important
+}
+
+.product-des .btn:hover {
+    background-color: #fff !important;
+    border-color: #F1BE61 !important;
+    color: #F1BE61 !important
+}
+
+.shopify-payment-button__button {
+    border-radius: 4px !important;
+    text-transform: uppercase !important;
+    font-weight: 500 !important;
+    background-color: #fff !important;
+    border-color: #F1BE61 !important;
+    color: #F1BE61 !important
+}
+
+.sticky-add-to-cart {
+    border-radius: 4px !important;
+    text-transform: uppercase !important;
+    font-weight: 500 !important;
+    background-color: #F1BE61 !important;
+    border-color: #F1BE61 !important;
+    color: #fff !important
+}
+
+.shopify-payment-button__button:hover {
+    background-color: #F1BE61 !important;
+    color: #fff !important
+}
+
+.sticky-add-to-cart:hover {
+    background-color: #fff !important;
+    border-color: #F1BE61 !important;
+    color: #F1BE61 !important
+}
+
+.wrapper-button-card .btn {
+    border-radius: 4px !important;
+    text-transform: uppercase;
+    background-color: #F1BE61 !important;
+    border-color: #F1BE61 !important;
+    color: #fff !important
+}
+
+a.btn.btn-register {
+    background-color: #F1BE61 !important;
+    border-color: #F1BE61 !important;
+    color: #fff !important
+}
+
+.wrapper-button-card .btn:hover,
+.btn.btn-register:hover,
+.add-to-cart-btn:hover,
+#notify-me-wrapper #soldOut-button:hover {
+    background-color: #fff !important;
+    border-color: #F1BE61 !important;
+    color: #F1BE61 !important
+}
+
+.btn.btn-checkout {
+    border-radius: 4px !important;
+    background-color: #F1BE61 !important;
+    border-color: #F1BE61 !important;
+    color: #fff !important
+}
+
+.btn.btn-checkout:hover {
+    background-color: #fff !important;
+    border-color: #F1BE61 !important;
+    color: #F1BE61 !important
+}
+
+.btn.btn-view-cart {
+    border-radius: 4px !important;
+    background-color: #F1BE61 !important;
+    border-color: #F1BE61 !important;
+    color: #fff !important
+}
+
+.btn.btn-view-cart:hover {
+    background-color: #fff !important;
+    border-color: #F1BE61 !important;
+    color: #F1BE61 !important
+}
+
+.progress-meter {
+    background-color: #F1BE61 !important
+}
+
+.btn-continue {
+    border-color: #F1BE61 !important
+}
+
+/*# sourceMappingURL=/s/files/1/0610/9472/3750/t/6/assets/Custom_button.css.map?v=166303330972278037061653997086 */
